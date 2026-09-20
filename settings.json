@@ -6,9 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": sliam.aternos.me    "port": 11195    "version": "",
     "try-creative": false
   },
   "position": {
